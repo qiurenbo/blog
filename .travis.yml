@@ -5,5 +5,6 @@ before_script:
   - git config user.email "qiurenbo@outlook.com"
   - sed -i'' "s~https://github.com/qiurenbo/blog.git~https://${access_token}@github.com/qiurenbo/qiurenbo.github.io.git~" _config.yml
 script:
+  - hexo clean
   - hexo g
   - hexo d
