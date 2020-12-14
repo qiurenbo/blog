@@ -4,7 +4,6 @@ date: 2020-12-14 08:49:47
 tags:
 ---
 ![](aldebaran-s-tkMsYL6O3tI-unsplash.jpg)
-{% asset_img aldebaran-s-tkMsYL6O3tI-unsplash.jpg  %}
 
 一直一来很少关注经济和地产方面的资讯，一方面可能圈子使然很少交流这些方面的内容，一方面也可能是观念使然，觉得投资是适合钱多了才考虑的事情，的确这两年收入上去了一点，才考虑入场基金，慢慢开始关注这些方面的内容。
 
