@@ -35,4 +35,4 @@ LOF（ListedOpen-EndedFund）即上市型开放式基金。也就是上市型开
 
 [知乎-ETF 基金与 LOF 基金](https://zhuanlan.zhihu.com/p/27936146)
 
-[LOF 基金](https://baike.eastmoney.com/item/LOF%E5%9F%BA%E9%87%91)
+[东方财富-LOF 基金](https://baike.eastmoney.com/item/LOF%E5%9F%BA%E9%87%91)
