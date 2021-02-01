@@ -1,8 +1,10 @@
 ---
-title: qd2 收益计算方法
+title: QDII 基金收益计算方法
 date: 2021-02-01 13:59:56
 tags:
 ---
+
+![](chen-144i7G1wIWk-unsplash.jpg)
 
 QDII 基金是主要是投资于海外市场的股市、债券一种基金。
 
